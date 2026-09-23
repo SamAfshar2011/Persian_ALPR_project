@@ -1,0 +1,2 @@
+﻿split,image_path,xml_path,reason,detail
+train,/Users/sam/Desktop/aiolearn/My_projects/Advanced_CLPR/Datasets/DS_model_1/train/night (3148)_extra.jpg,/Users/sam/Desktop/aiolearn/My_projects/Advanced_CLPR/Datasets/DS_model_1/train/night (3148)_extra.xml,Missing side-by-side XML,Expected XML with same stem as image

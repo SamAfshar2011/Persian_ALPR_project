@@ -1,0 +1,20 @@
+{
+  "best_metric_name": "macro_f1",
+  "best_metric": 0.9668749062429681,
+  "best_epoch": 2,
+  "last_epoch": 4,
+  "last_metrics": {
+    "epoch": 4,
+    "optimizer_step": 11184,
+    "backbone_lr": 7.796942302114222e-05,
+    "head_lr": 0.000389847115105711,
+    "epoch_seconds": 6868.783010959625,
+    "train_loss": 0.2879012525384764,
+    "train_accuracy": 0.9975968792962768,
+    "train_top5_accuracy": 0.9995193758592553,
+    "valid_loss": 0.2883246705907496,
+    "valid_accuracy": 0.9978624866405416,
+    "valid_top5_accuracy": 1.0,
+    "macro_f1": 0.9668747655769424
+  }
+}

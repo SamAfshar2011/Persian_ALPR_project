@@ -1,0 +1,8 @@
+
+path: /Users/sam/Desktop/aiolearn/My_projects/Advanced_CLPR/Saved_models/model_2_fixed/yolo_dataset
+train: /Users/sam/Desktop/aiolearn/My_projects/Advanced_CLPR/Saved_models/model_2_fixed/yolo_dataset/images/train
+val: /Users/sam/Desktop/aiolearn/My_projects/Advanced_CLPR/Saved_models/model_2_fixed/yolo_dataset/images/valid
+
+nc: 1
+names:
+  0: character
